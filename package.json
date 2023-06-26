@@ -1,0 +1,16 @@
+{
+  "name": "hype-generator",
+  "version": "1.0.0",
+  "description": "Takes user accomplishment and returns a hype statement.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hype",
+    "generator",
+    "fun"
+  ],
+  "author": "Scott Yang",
+  "license": "ISC"
+}
